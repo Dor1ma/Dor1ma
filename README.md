@@ -51,7 +51,7 @@ I'm **Pavel Admaikin**, a student of the [Information Technologies and Programmi
 &nbsp;
 
 ## 📊 &nbsp;Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dor1ma&show_icons=true&theme=react&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dor1ma&show_icons=true&theme=react&&layout=compact&langs_count=239&)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dor1ma&show_icons=true&theme=react&locale=en" alt="Dor1ma" /></p>
 
