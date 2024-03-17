@@ -40,3 +40,7 @@ I'm **Pavel Admaikin**, a student of the [Information Technologies and Programmi
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dor1ma&theme=react" alt="Dor1ma" /></p>
 
+## 🔗 &nbsp;Links
+
+[<img align="left" alt="D0r1ma | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[telegram]: https://t.me/D0r1ma
